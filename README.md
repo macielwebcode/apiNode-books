@@ -1,5 +1,5 @@
 # Projeto API de Livros com Mongo e Express
-API utilizando node, express, mongo e dotenv
+API utilizando node, express, mongodb, mongoose e dotenv
 
 
 <img src="https://img.shields.io/static/v1?label=nodejs&message=software&color=blue&style=for-the-badge&logo=NODEJS"/>
